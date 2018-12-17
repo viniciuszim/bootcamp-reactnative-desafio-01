@@ -1,0 +1,3 @@
+rootProject.name = 'bootcampreactnativemodulo01'
+
+include ':app'
